@@ -3,6 +3,7 @@
 
 html{
     font-family: monospace;
+    text-align: center;
 }
 
 body {
@@ -40,6 +41,7 @@ body {
     text-align: center;
     font-size: 3.5rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 
 }
 
@@ -82,7 +84,9 @@ body {
 
 
 .created {
-    text-align: center; font-size: 2rem;
+    text-align: center; 
+    font-size: 2rem;
+    color: white;
 }
 
 
