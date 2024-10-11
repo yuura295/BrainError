@@ -37,6 +37,7 @@ body {
 
 .textV {
     font-size: 3rem;
+    color:white;
 }
 
 .profile p {
@@ -65,4 +66,9 @@ body {
         align-items: center;
         margin-top: -16%;
     }
+
+    .profile p {
+    font-size: 1.3rem;
+    text-align: justify;
+}
 }
