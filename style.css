@@ -3,7 +3,7 @@
 
 html{
     font-family: monospace;
-    text-align: center;
+    
 }
 
 body {
@@ -11,7 +11,8 @@ body {
 }
 
 .bungkus a {
-    color: white;
+    color: black;
+    font-size: 1.5rem;
 }
 
 .container-l{
@@ -47,6 +48,7 @@ body {
 
 .cardBox {
     padding: 3rem;
+    text-align: center;
 }
 
 
