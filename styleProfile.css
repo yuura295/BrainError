@@ -1,14 +1,16 @@
+
 html{
     font-family: monospace;
+    
 }
 
 body {
-    background-color: bisque;
+    background-color: #895129;
 }
 
-
 .bungkus a {
-    color: white;
+    color: black;
+    font-size: 1.3rem;
 }
 
 .container-l{
